@@ -1,6 +1,6 @@
 # DaVinci Video Converter (dvc)
 
-A bash script to convert H.265 videos to MJPEG format that can be read by Davinci Resolve. This is a fork of [gohny's davinconv](https://github.com/gohny/davinconv) with added functionality such as the ability to choose where the files are going to be saved using a GUI (zenity).
+A bash script to convert H.265 videos to MJPEG format that can be read by Davinci Resolve on Linux. This is a fork of [gohny's davinconv](https://github.com/gohny/davinconv) with added functionality such as the ability to choose where the files are going to be saved using a GUI (zenity).
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/FelipeFMA/dvc.git`
