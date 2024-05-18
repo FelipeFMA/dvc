@@ -1,5 +1,6 @@
 #! /bin/bash
 # https://github.com/FelipeFMA/dvc
+# A fork of gohny/davinconv
 
 # A bash script to convert H.265 videos to MJPEG format that can be read by Davinci Resolve.
 
